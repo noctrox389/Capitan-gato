@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="titleEnter.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ENTER FREEZE0000" x="354" y="347" width="149" height="42"/>
+ <SubTexture name="ENTER FREEZE0001" x="354" y="347" width="149" height="42"/>
+ <SubTexture name="ENTER FREEZE0002" x="354" y="347" width="149" height="42"/>
+ <SubTexture name="ENTER FREEZE0003" x="354" y="347" width="149" height="42"/>
+ <SubTexture name="ENTER FREEZE0004" x="354" y="0" width="149" height="42"/>
+ <SubTexture name="ENTER FREEZE0005" x="354" y="0" width="149" height="42"/>
+ <SubTexture name="ENTER FREEZE0006" x="354" y="0" width="149" height="42"/>
+ <SubTexture name="ENTER FREEZE0007" x="354" y="0" width="149" height="42"/>
+ <SubTexture name="ENTER FREEZE0008" x="354" y="347" width="149" height="42"/>
+ <SubTexture name="ENTER FREEZE0009" x="354" y="347" width="149" height="42"/>
+ <SubTexture name="ENTER FREEZE0010" x="354" y="347" width="149" height="42"/>
+ <SubTexture name="ENTER FREEZE0011" x="354" y="347" width="149" height="42"/>
+
+	<SubTexture name="ENTER IDLE0000" x="354" y="347" width="149" height="42"/>
+ <SubTexture name="ENTER IDLE0001" x="354" y="347" width="149" height="42"/>
+ <SubTexture name="ENTER IDLE0002" x="354" y="347" width="149" height="42"/>
+ <SubTexture name="ENTER IDLE0003" x="354" y="347" width="149" height="42"/>
+ <SubTexture name="ENTER IDLE0004" x="354" y="0" width="149" height="42"/>
+ <SubTexture name="ENTER IDLE0005" x="354" y="0" width="149" height="42"/>
+ <SubTexture name="ENTER IDLE0006" x="354" y="0" width="149" height="42"/>
+ <SubTexture name="ENTER IDLE0007" x="354" y="0" width="149" height="42"/>
+ <SubTexture name="ENTER IDLE0008" x="354" y="347" width="149" height="42"/>
+ <SubTexture name="ENTER IDLE0009" x="354" y="347" width="149" height="42"/>
+ <SubTexture name="ENTER IDLE0010" x="354" y="347" width="149" height="42"/>
+ <SubTexture name="ENTER IDLE0011" x="354" y="347" width="149" height="42"/>
+
+	<SubTexture name="ENTER PRESSED0000" x="354" y="415" width="149" height="42"/>
+	<SubTexture name="ENTER PRESSED0001" x="354" y="415" width="149" height="42"/>
+</TextureAtlas>

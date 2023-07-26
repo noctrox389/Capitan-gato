@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Audiencia_star.png">
+<SubTexture name="audiencia de star0000" x="0" y="0" width="1903" height="241" frameX="0" frameY="0" frameWidth="1903" frameHeight="241" />
+<SubTexture name="audiencia de star0001" x="0" y="0" width="1903" height="241" frameX="0" frameY="0" frameWidth="1903" frameHeight="241" />
+<SubTexture name="audiencia de star0002" x="0" y="241" width="1903" height="241" frameX="0" frameY="0" frameWidth="1903" frameHeight="241" />
+<SubTexture name="audiencia de star0003" x="0" y="241" width="1903" height="241" frameX="0" frameY="0" frameWidth="1903" frameHeight="241" />
+<SubTexture name="audiencia de star0004" x="0" y="482" width="1903" height="241" frameX="0" frameY="0" frameWidth="1903" frameHeight="241" />
+<SubTexture name="audiencia de star0005" x="0" y="482" width="1903" height="241" frameX="0" frameY="0" frameWidth="1903" frameHeight="241" />
+<SubTexture name="audiencia de star0006" x="0" y="723" width="1903" height="241" frameX="0" frameY="0" frameWidth="1903" frameHeight="241" />
+<SubTexture name="audiencia de star0007" x="0" y="723" width="1903" height="241" frameX="0" frameY="0" frameWidth="1903" frameHeight="241" />
+<SubTexture name="audiencia de star0008" x="0" y="723" width="1903" height="241" frameX="0" frameY="0" frameWidth="1903" frameHeight="241" />
+<SubTexture name="audiencia de star0009" x="0" y="723" width="1903" height="241" frameX="0" frameY="0" frameWidth="1903" frameHeight="241" />
+<SubTexture name="audiencia de star0010" x="0" y="723" width="1903" height="241" frameX="0" frameY="0" frameWidth="1903" frameHeight="241" />
+<SubTexture name="audiencia de star0011" x="0" y="723" width="1903" height="241" frameX="0" frameY="0" frameWidth="1903" frameHeight="241" />
+<SubTexture name="audiencia de star0012" x="0" y="723" width="1903" height="241" frameX="0" frameY="0" frameWidth="1903" frameHeight="241" />
+<SubTexture name="audiencia de star0013" x="0" y="723" width="1903" height="241" frameX="0" frameY="0" frameWidth="1903" frameHeight="241" />
+</TextureAtlas>

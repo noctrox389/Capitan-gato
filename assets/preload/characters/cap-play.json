@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "cap idle"
+		},
+		{
+			"offsets": [
+				-5,
+				86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "cap up"
+		},
+		{
+			"offsets": [
+				64,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "cap derecha"
+		},
+		{
+			"offsets": [
+				101,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "cap down"
+		},
+		{
+			"offsets": [
+				110,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "cap izquierda"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cap_gato_bolita",
+	"position": [
+		-370,
+		430
+	],
+	"healthicon": "cap player",
+	"flip_x": true,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		90,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 1.01
+}

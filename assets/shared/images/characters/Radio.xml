@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Radio.png">
+<SubTexture name="bocina final0000" x="0" y="0" width="735" height="467" frameX="0" frameY="0" frameWidth="735" frameHeight="468" />
+<SubTexture name="bocina final0001" x="735" y="0" width="735" height="467" frameX="0" frameY="0" frameWidth="735" frameHeight="468" />
+<SubTexture name="bocina final0002" x="0" y="467" width="735" height="467" frameX="0" frameY="0" frameWidth="735" frameHeight="468" />
+<SubTexture name="bocina final0003" x="735" y="467" width="735" height="467" frameX="0" frameY="0" frameWidth="735" frameHeight="468" />
+<SubTexture name="bocina final0004" x="735" y="467" width="735" height="467" frameX="0" frameY="0" frameWidth="735" frameHeight="468" />
+<SubTexture name="bocina final0005" x="735" y="467" width="735" height="467" frameX="0" frameY="0" frameWidth="735" frameHeight="468" />
+<SubTexture name="bocina final0006" x="735" y="467" width="735" height="467" frameX="0" frameY="0" frameWidth="735" frameHeight="468" />
+<SubTexture name="bocina final0007" x="735" y="467" width="735" height="467" frameX="0" frameY="0" frameWidth="735" frameHeight="468" />
+<SubTexture name="bocina final0008" x="735" y="467" width="735" height="467" frameX="0" frameY="0" frameWidth="735" frameHeight="468" />
+<SubTexture name="bocina final0009" x="735" y="467" width="735" height="467" frameX="0" frameY="0" frameWidth="735" frameHeight="468" />
+<SubTexture name="bocina final0010" x="735" y="467" width="735" height="467" frameX="0" frameY="0" frameWidth="735" frameHeight="468" />
+<SubTexture name="bocina final0011" x="735" y="467" width="735" height="467" frameX="0" frameY="0" frameWidth="735" frameHeight="468" />
+<SubTexture name="bocina final0012" x="735" y="467" width="735" height="467" frameX="0" frameY="0" frameWidth="735" frameHeight="468" />
+<SubTexture name="bocina final0013" x="735" y="467" width="735" height="467" frameX="0" frameY="0" frameWidth="735" frameHeight="468" />
+<SubTexture name="bocina final0014" x="735" y="467" width="735" height="467" frameX="0" frameY="0" frameWidth="735" frameHeight="468" />
+<SubTexture name="bocina final0015" x="735" y="467" width="735" height="467" frameX="0" frameY="0" frameWidth="735" frameHeight="468" />
+<SubTexture name="bocina final0016" x="735" y="467" width="735" height="467" frameX="0" frameY="0" frameWidth="735" frameHeight="468" />
+<SubTexture name="bocina final0017" x="735" y="467" width="735" height="467" frameX="0" frameY="0" frameWidth="735" frameHeight="468" />
+<SubTexture name="bocina final0018" x="735" y="467" width="735" height="467" frameX="0" frameY="0" frameWidth="735" frameHeight="468" />
+<SubTexture name="bocina final0019" x="735" y="467" width="735" height="467" frameX="0" frameY="0" frameWidth="735" frameHeight="468" />
+<SubTexture name="bocina final0020" x="735" y="467" width="735" height="467" frameX="0" frameY="0" frameWidth="735" frameHeight="468" />
+<SubTexture name="bocina final0021" x="735" y="467" width="735" height="467" frameX="0" frameY="0" frameWidth="735" frameHeight="468" />
+<SubTexture name="bocina final0022" x="735" y="467" width="735" height="467" frameX="0" frameY="0" frameWidth="735" frameHeight="468" />
+<SubTexture name="bocina final0023" x="735" y="467" width="735" height="467" frameX="0" frameY="0" frameWidth="735" frameHeight="468" />
+<SubTexture name="bocina final0024" x="735" y="467" width="735" height="467" frameX="0" frameY="0" frameWidth="735" frameHeight="468" />
+</TextureAtlas>

@@ -1,0 +1,44 @@
+{
+	"storyName": "DECIME onichan",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "capitaincat",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Nitro",
+			"cap",
+			[
+				175,
+				113,
+				0
+			]
+		],
+		[
+			"starnight",
+			"star",
+			[
+				205,
+				100,
+				255
+			]
+		],
+		[
+			"Heating",
+			"magma",
+			[
+				255,
+				140,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 1"
+}

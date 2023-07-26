@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				263,
+				87
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "cap idle"
+		},
+		{
+			"offsets": [
+				268,
+				137
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "cap up"
+		},
+		{
+			"offsets": [
+				268,
+				88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "cap izquierda"
+		},
+		{
+			"offsets": [
+				268,
+				88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "cap down"
+		},
+		{
+			"offsets": [
+				268,
+				88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "cap derecha"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cap gato",
+	"position": [
+		-120,
+		310
+	],
+	"healthicon": "cap",
+	"flip_x": true,
+	"healthbar_colors": [
+		166,
+		64,
+		44
+	],
+	"camera_position": [
+		250,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1.265
+}

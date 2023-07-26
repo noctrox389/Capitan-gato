@@ -1,0 +1,71 @@
+{
+	"storyName": "Daddy Dearest",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"friendly loniless",
+			"magma",
+			[
+				6,
+				255,
+				253
+			]
+		],
+		[
+			"cholipan",
+			"star",
+			[
+				255,
+				113,
+				253
+			]
+		],
+		[
+			"Hecker cap mix",
+			"caphecker",
+			[
+				175,
+				113,
+				0
+			]
+		],
+		[
+			"its complicated",
+			"star",
+			[
+				255,
+				100,
+				100
+			]
+		],
+		[
+			"nitro nexo mix",
+			"cap",
+			[
+				175,
+				113,
+				0
+			]
+		],
+		[
+			"hecker nexo mix",
+			"caphecker",
+			[
+				175,
+				113,
+				0
+			]
+		]
+	],
+	"weekName": "Week 1"
+}

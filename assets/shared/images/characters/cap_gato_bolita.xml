@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Cap gato bolita.png" width="1990" height="3256">
+  <SubTexture name="cap izquierda0001.png" x="0" y="0"  width="445" height="331" frameX="-0" frameY="-0" frameWidth="445" frameHeight="331"/>
+  <SubTexture name="cap down0001.png" x="445" y="0"  width="436" height="331" frameX="-0" frameY="-0" frameWidth="436" frameHeight="331"/>
+  <SubTexture name="cap down0002.png" x="881" y="0"  width="436" height="331" frameX="-0" frameY="-0" frameWidth="436" frameHeight="331"/>
+  <SubTexture name="cap izquierda0004.png" x="1317" y="0"  width="430" height="331" frameX="-15" frameY="-0" frameWidth="445" frameHeight="331"/>
+  <SubTexture name="cap down0005.png" x="0" y="331"  width="429" height="331" frameX="-7" frameY="-0" frameWidth="436" frameHeight="331"/>
+  <SubTexture name="cap down0006.png" x="429" y="331"  width="429" height="331" frameX="-7" frameY="-0" frameWidth="436" frameHeight="331"/>
+  <SubTexture name="cap down0003.png" x="858" y="331"  width="428" height="331" frameX="-8" frameY="-0" frameWidth="436" frameHeight="331"/>
+  <SubTexture name="cap down0004.png" x="1286" y="331"  width="428" height="331" frameX="-8" frameY="-0" frameWidth="436" frameHeight="331"/>
+  <SubTexture name="cap down0007.png" x="0" y="662"  width="428" height="331" frameX="-8" frameY="-0" frameWidth="436" frameHeight="331"/>
+  <SubTexture name="cap izquierda0002.png" x="428" y="662"  width="425" height="331" frameX="-20" frameY="-0" frameWidth="445" frameHeight="331"/>
+  <SubTexture name="cap izquierda0003.png" x="853" y="662"  width="425" height="331" frameX="-20" frameY="-0" frameWidth="445" frameHeight="331"/>
+  <SubTexture name="cap up0004.png" x="1278" y="662" width="421" height="331" rotated="true"  frameX="-0" frameY="-0" frameWidth="331" frameHeight="421"/>
+  <SubTexture name="cap up0005.png" x="0" y="993" width="421" height="331" rotated="true"  frameX="-0" frameY="-0" frameWidth="331" frameHeight="421"/>
+  <SubTexture name="cap up0006.png" x="421" y="993" width="413" height="331" rotated="true"  frameX="-0" frameY="-8" frameWidth="331" frameHeight="421"/>
+  <SubTexture name="cap up0007.png" x="834" y="993" width="413" height="331" rotated="true"  frameX="-0" frameY="-8" frameWidth="331" frameHeight="421"/>
+  <SubTexture name="cap izquierda0000.png" x="1247" y="993"  width="403" height="331" frameX="-42" frameY="-0" frameWidth="445" frameHeight="331"/>
+  <SubTexture name="cap idle0000.png" x="1650" y="993" width="332" height="331" rotated="true"  frameX="-0" frameY="-0" frameWidth="331" frameHeight="332"/>
+  <SubTexture name="cap izquierda0009.png" x="0" y="1324" width="331" height="396" rotated="true"  frameX="-49" frameY="-0" frameWidth="445" frameHeight="331"/>
+  <SubTexture name="cap izquierda0006.png" x="0" y="1720" width="331" height="391" rotated="true"  frameX="-54" frameY="-0" frameWidth="445" frameHeight="331"/>
+  <SubTexture name="cap derecha0000.png" x="0" y="2111" width="331" height="388" rotated="true"  frameX="-12" frameY="-0" frameWidth="400" frameHeight="331"/>
+  <SubTexture name="cap up0003.png" x="0" y="2499"  width="331" height="383" frameX="-0" frameY="-38" frameWidth="331" frameHeight="421"/>
+  <SubTexture name="cap izquierda0005.png" x="0" y="2882" width="331" height="374" rotated="true"  frameX="-71" frameY="-0" frameWidth="445" frameHeight="331"/>
+  <SubTexture name="cap derecha0004.png" x="331" y="1324"  width="369" height="331" frameX="-31" frameY="-0" frameWidth="400" frameHeight="331"/>
+  <SubTexture name="cap derecha0002.png" x="700" y="1324"  width="358" height="331" frameX="-42" frameY="-0" frameWidth="400" frameHeight="331"/>
+  <SubTexture name="cap derecha0003.png" x="1058" y="1324"  width="358" height="331" frameX="-42" frameY="-0" frameWidth="400" frameHeight="331"/>
+  <SubTexture name="cap idle0002.png" x="1416" y="1324" width="332" height="331" rotated="true"  frameX="-0" frameY="-0" frameWidth="331" frameHeight="332"/>
+  <SubTexture name="cap idle0004.png" x="331" y="1655"  width="331" height="332" frameX="-0" frameY="-0" frameWidth="331" frameHeight="332"/>
+  <SubTexture name="cap idle0006.png" x="331" y="1987"  width="331" height="332" frameX="-0" frameY="-0" frameWidth="331" frameHeight="332"/>
+  <SubTexture name="cap idle0007.png" x="331" y="2319"  width="331" height="332" frameX="-0" frameY="-0" frameWidth="331" frameHeight="332"/>
+  <SubTexture name="cap idle0008.png" x="331" y="2651"  width="331" height="332" frameX="-0" frameY="-0" frameWidth="331" frameHeight="332"/>
+  <SubTexture name="cap idle0009.png" x="662" y="1655" width="332" height="331" rotated="true"  frameX="-0" frameY="-0" frameWidth="331" frameHeight="332"/>
+  <SubTexture name="cap idle0011.png" x="994" y="1655" width="332" height="331" rotated="true"  frameX="-0" frameY="-0" frameWidth="331" frameHeight="332"/>
+  <SubTexture name="cap idle0013.png" x="1326" y="1655" width="332" height="331" rotated="true"  frameX="-0" frameY="-0" frameWidth="331" frameHeight="332"/>
+  <SubTexture name="cap up0000.png" x="1658" y="1655" width="332" height="331" rotated="true"  frameX="-0" frameY="-89" frameWidth="331" frameHeight="421"/>
+  <SubTexture name="cap up0002.png" x="662" y="1986"  width="331" height="332" frameX="-0" frameY="-89" frameWidth="331" frameHeight="421"/>
+  <SubTexture name="cap down0000.png" x="662" y="2318"  width="331" height="331" frameX="-105" frameY="-0" frameWidth="436" frameHeight="331"/>
+  <SubTexture name="cap izquierda0007.png" x="662" y="2649"  width="331" height="331" frameX="-114" frameY="-0" frameWidth="445" frameHeight="331"/>
+  <SubTexture name="cap izquierda0008.png" x="993" y="1986"  width="331" height="331" frameX="-114" frameY="-0" frameWidth="445" frameHeight="331"/>
+  <SubTexture name="cap izquierda0010.png" x="1324" y="1986"  width="331" height="331" frameX="-114" frameY="-0" frameWidth="445" frameHeight="331"/>
+  <SubTexture name="cap derecha0001.png" x="0" y="2111" width="331" height="388" rotated="true"  frameX="-12" frameY="-0" frameWidth="400" frameHeight="331"/>
+  <SubTexture name="cap idle0001.png" x="1650" y="993" width="332" height="331" rotated="true"  frameX="-0" frameY="-0" frameWidth="331" frameHeight="332"/>
+  <SubTexture name="cap idle0003.png" x="1416" y="1324" width="332" height="331" rotated="true"  frameX="-0" frameY="-0" frameWidth="331" frameHeight="332"/>
+  <SubTexture name="cap idle0005.png" x="331" y="1655"  width="331" height="332" frameX="-0" frameY="-0" frameWidth="331" frameHeight="332"/>
+  <SubTexture name="cap idle0010.png" x="662" y="1655" width="332" height="331" rotated="true"  frameX="-0" frameY="-0" frameWidth="331" frameHeight="332"/>
+  <SubTexture name="cap idle0012.png" x="994" y="1655" width="332" height="331" rotated="true"  frameX="-0" frameY="-0" frameWidth="331" frameHeight="332"/>
+  <SubTexture name="cap idle0014.png" x="1326" y="1655" width="332" height="331" rotated="true"  frameX="-0" frameY="-0" frameWidth="331" frameHeight="332"/>
+  <SubTexture name="cap up0001.png" x="1658" y="1655" width="332" height="331" rotated="true"  frameX="-0" frameY="-89" frameWidth="331" frameHeight="421"/>
+</TextureAtlas>

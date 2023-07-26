@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Audiencia_cap.png">
+<SubTexture name="fondo0000" x="0" y="0" width="1903" height="241" frameX="0" frameY="0" frameWidth="1903" frameHeight="241" />
+<SubTexture name="fondo0001" x="0" y="0" width="1903" height="241" frameX="0" frameY="0" frameWidth="1903" frameHeight="241" />
+<SubTexture name="fondo0002" x="0" y="241" width="1903" height="241" frameX="0" frameY="0" frameWidth="1903" frameHeight="241" />
+<SubTexture name="fondo0003" x="0" y="241" width="1903" height="241" frameX="0" frameY="0" frameWidth="1903" frameHeight="241" />
+<SubTexture name="fondo0004" x="0" y="482" width="1903" height="241" frameX="0" frameY="0" frameWidth="1903" frameHeight="241" />
+<SubTexture name="fondo0005" x="0" y="482" width="1903" height="241" frameX="0" frameY="0" frameWidth="1903" frameHeight="241" />
+<SubTexture name="fondo0006" x="0" y="723" width="1903" height="241" frameX="0" frameY="0" frameWidth="1903" frameHeight="241" />
+<SubTexture name="fondo0007" x="0" y="723" width="1903" height="241" frameX="0" frameY="0" frameWidth="1903" frameHeight="241" />
+<SubTexture name="fondo0008" x="0" y="723" width="1903" height="241" frameX="0" frameY="0" frameWidth="1903" frameHeight="241" />
+<SubTexture name="fondo0009" x="0" y="723" width="1903" height="241" frameX="0" frameY="0" frameWidth="1903" frameHeight="241" />
+<SubTexture name="fondo0010" x="0" y="723" width="1903" height="241" frameX="0" frameY="0" frameWidth="1903" frameHeight="241" />
+<SubTexture name="fondo0011" x="0" y="723" width="1903" height="241" frameX="0" frameY="0" frameWidth="1903" frameHeight="241" />
+<SubTexture name="fondo0012" x="0" y="723" width="1903" height="241" frameX="0" frameY="0" frameWidth="1903" frameHeight="241" />
+<SubTexture name="fondo0013" x="0" y="723" width="1903" height="241" frameX="0" frameY="0" frameWidth="1903" frameHeight="241" />
+</TextureAtlas>
